@@ -1,5 +1,9 @@
 # HSMA Session 4D
 
+## Slides
+
+<a href="https://docs.google.com/presentation/d/1LgVvgLzm4dxCdDCusjWWC_SBrtXhhCPchHXK4oI0kWU/edit?usp=sharing"><img src="https://img.shields.io/static/v1?label=Google+Slides&message=Click+here+to+view+the+slides+for+this+session&color=%23FBBC04&style=for-the-badge&logo=googleslides&logoColor=%23FBBC04" alt="Google Slides - Click here to view slides for this session"></a>
+
 ## Decision Trees & Random Forests
 
 ### Learning Objectives
