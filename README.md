@@ -17,11 +17,11 @@ Alternatively, you can run each exercise on **Google Colab**, a free online plat
 Using the links below will open a fresh copy of the notebook to work on - your changes will not be visible to anyone else. However, if you want to be able to refer back to your version of the notebook in future, make sure you click **'File --> Save to Drive'**. 
 Your changes will then be saved to your own account, and you can access your edited copy of the notebook from https://colab.research.google.com/.
 
-Open Exercise 1 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_4e_boosted_trees/blob/main/exercises/boosting_exercise.ipynb">
+Open Exercise 1 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_4d_decision_trees_random_forests/blob/main/h6_4d_decision_trees_random_forests/exercises/decision_tree_stroke_exercise.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Open Exercise 2 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_4e_boosted_trees/blob/main/exercises_colab/regression_tree_exercise.ipynb">
+Open Exercise 2 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_4d_decision_trees_random_forests/blob/main/h6_4d_decision_trees_random_forests/exercises/random_forest_stroke_exercise.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -39,8 +39,7 @@ The **challenge** section contains exercises that may go beyond what is covered 
 
 Coming Soon. 
 
-
-# Learning Objectives
+## Learning Objectives
 
 Students should be able to:
 
@@ -54,12 +53,14 @@ Students should be able to:
     - Pruning
     - Minimum samples (leaf and split)
     - Maximum depth
-- Write code to create a confusion matrix using the sklearn library
-- Explain the benefits of normalising a confusion matrix
-- Write code to create a normalised confusion matrix using the sklearn library
 - Explain the main points of how random forests work
 - List the two ways in which randomness is introduced into the tree building process
 - Explain the concept of bootstrapping
 - Explain the difference between sampling with and without replacement
 - Explain some benefits and downsides of random forests
 - Write code to classify a dataset using a random forest using the sklearn library
+- Explain what f1 score is
+- Explain the different kinds of averages that can be calculated for metrics like precision and recall
+- Write code to create a confusion matrix using the sklearn library
+- Explain the benefits of normalising a confusion matrix
+- Write code to create a normalised confusion matrix using the sklearn library
