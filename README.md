@@ -6,7 +6,7 @@
 
 ## Lecture Recording
 
-Coming Soon.
+<a href="https://youtu.be/p3Bc2kDtPPs"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
 
 ## Exercises
 
